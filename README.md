@@ -3,6 +3,18 @@
 
 <img src="https://img.freepik.com/vector-premium/banner-colorido-manos-trabajando-computadora-diferentes-aparatos-electronicos-dispositivos-simbolos-programacion-desarrollo-software-codificacion-programas_198278-4192.jpg?w=1380">
 
+<h3>Pasión por la Tecnología</h3>
+<p>Desde pequeño, siempre me ha apasionado la tecnología.
+Me fascina cómo las aplicaciones y el software pueden mejorar nuestras vidas y cambiar la forma en que trabajamos y nos comunicamos.</p>
+
+<h3>Experiencia en DAM</h3>
+<p>Estoy actualmente en mi segundo año de DAM y en estos años he tenido la oportunidad de aprender programación , base de datos , ofimática y mucho mas.
+Mis materias favoritas sin duda son la programación y el desarrollo web .</p>
+
+<h3>Experiencia Dual</h3>
+<p>También en el grado medio tuve una de las experiencias mas tecnologicas de mi vida donde descubri muchas tecnologias en mis practicas duales.
+Toda esa experiencia esta explicada e incluso con fallos que hice al principio aqui os dejo la web: <a href="https://sergiodual.weebly.com/">Mi etapa Dual</a></p>
+
 
 
 
