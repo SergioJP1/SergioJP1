@@ -1,7 +1,9 @@
-## Hola 👋 mi nombre es Sergio Jimenez y este es mi IPOP  
--  Soy un estudiante de DAM (grado superior de informática)
+# Hola 👋 mi nombre es Sergio Jimenez y este es mi IPOP  
+###  Soy un estudiante de DAM (grado superior de informática)
 
 <img src="https://img.freepik.com/vector-premium/banner-colorido-manos-trabajando-computadora-diferentes-aparatos-electronicos-dispositivos-simbolos-programacion-desarrollo-software-codificacion-programas_198278-4192.jpg?w=1380">
+
+
 
 
 <!---
