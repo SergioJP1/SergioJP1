@@ -15,6 +15,30 @@ Mis materias favoritas sin duda son la programación y el desarrollo web .</p>
 <p>También en el grado medio tuve una de las experiencias más tecnológicas de mi vida, donde descubrí muchas tecnologías en mis prácticas duales.
 Toda esa experiencia está explicada en esta web: <a href="https://sergiodual.weebly.com/">Mi experiencia Dual</a></p>
 
+## Tecnologías
+
+Estas son algunas de las tecnologías con las que he programado:
+
+- HTML 5
+- CSS 3
+- JavaScript
+- Java
+- PHP
+- MYSQL
+
+## Otros programas utilizados
+
+Estas son algunas de las tecnologías con las que he trabajado:
+
+- AnyDesk
+- Configuraciones Outlook
+- Cuentas Exchange
+- Office 365
+- Nas Navigator 2
+- Access -> Sharepoint
+- HDD Low Level Format
+- Wordpress -> <a href="https://pont-aurell.com/">Desarrolle la web actual de mis practicas duales</a>
+
 
 
 
