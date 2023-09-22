@@ -37,7 +37,7 @@ Estas son algunas de las tecnologías con las que he trabajado:
 - Nas Navigator 2
 - Access -> Sharepoint
 - HDD Low Level Format
-- Wordpress -> <a href="https://pont-aurell.com/">Desarrolle la web actual de mis practicas duales</a>
+- Wordpress -> <a target="_blank" href="https://pont-aurell.com/">Desarrolle la web actual de mis practicas duales</a>
 
 
 
