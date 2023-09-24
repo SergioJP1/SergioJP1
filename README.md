@@ -75,6 +75,12 @@ Estas son algunas de las tecnologías con las que he trabajado:
 </span>
 
 
+  <h2>Contacto</h2>
+  <a href="mailto:jimenez.pajuelo.sergio@alumnat.copernic.cat">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+
+
+
 
 
 
