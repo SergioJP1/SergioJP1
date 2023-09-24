@@ -15,7 +15,7 @@ Mis materias favoritas sin duda son la <b>programación y el desarrollo web .</b
 <p>También en el grado medio tuve una de las experiencias más tecnológicas de mi vida, donde descubrí muchas tecnologías en mis prácticas duales.
 Toda esa experiencia está explicada en esta web: <a href="https://sergiodual.weebly.com/">Mi experiencia Dual</a>
 <br></p>
-<p>En mi estancia dual realize el proyecto de hacerles su <b>actual pàgina web aqui el enlace : </b
+<p>En mi estancia dual realize el proyecto de hacerles su <b>actual pàgina web aqui el enlace : </b>
     <a href="https://pont-aurell.com">Web actual de mis practicas duales</a></p>
     
 ## Tecnologías
