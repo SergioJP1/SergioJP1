@@ -1,5 +1,4 @@
-<h2 align="center"> Hola 👋 mi nombre es Sergio Jimenez y este es mi IPOP </h2>
-<p align="center"> Soy un estudiante de DAM (grado superior de informática)</p>
+
  <a href="https://github.com/SergioJP1/">
     <img src="github-header-image.png">
  </a>
