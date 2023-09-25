@@ -1,7 +1,7 @@
 <h2 align="center"> Hola 👋 mi nombre es Sergio Jimenez y este es mi IPOP </h2>
 <p align="center"> Soy un estudiante de DAM (grado superior de informática)</p>
  <a href="https://github.com/SergioJP1/">
-    <img src="https://img.freepik.com/vector-premium/banner-colorido-manos-trabajando-computadora-diferentes-aparatos-electronicos-dispositivos-simbolos-programacion-desarrollo-software-codificacion-programas_198278-4192.jpg?w=1380">
+    <img src="github-header-image.png">
  </a>
 <h3>Pasión por la Tecnología</h3>
 <p>Desde pequeño, siempre me ha apasionado la tecnología.
