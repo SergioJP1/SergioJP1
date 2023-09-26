@@ -2,20 +2,22 @@
  <a href="https://github.com/SergioJP1/">
     <img src="github-header-image.png">
  </a>
+ <hr>
 <h3>Pasión por la Tecnología</h3>
 <p>Desde pequeño, siempre me ha apasionado la tecnología.
 Me fascina cómo las aplicaciones y el software pueden <b>mejorar nuestras vidas y cambiar la forma en que trabajamos</b> y nos comunicamos.</p>
-
+<hr>
 <h3>Experiencia en DAM</h3>
 <p>Estoy actualmente en mi segundo año de DAM y en estos años he tenido la oportunidad de aprender programación , base de datos , ofimática y mucho más.
 Mis materias favoritas sin duda son la <b>programación y el desarrollo web .</b></p>
-
+<hr>
 <h3>Experiencia Dual</h3>
 <p>También en el grado medio tuve una de las experiencias más tecnológicas de mi vida, donde descubrí muchas tecnologías en mis prácticas duales.
 Toda esa experiencia está explicada en esta web: <a href="https://sergiodual.weebly.com/">Mi experiencia Dual</a>
 <br></p>
 <p>En mi estancia dual realize el proyecto de hacerles su <b>actual pàgina web aqui el enlace : </b>
     <a href="https://pont-aurell.com">Web actual de mis practicas duales</a></p>
+    <hr>
     
 ## Tecnologías
 
@@ -102,13 +104,13 @@ Estas son algunas de las tecnologías con las que he trabajado:
         <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt=" Wordpress" height="25px">
      </a>
 </span>
+<hr>
 
 ## Proyectos/ejercicios
-<h3><a href="https://ejemplophpsergio.000webhostapp.com/" style="color:red;">Proyecto web LoL: Enlace al proyecto</a></h3>
 
+<h4><a href="https://ejemplophpsergio.000webhostapp.com/" >Web LoL: Enlace al proyecto</a></h4>
 
- 
- #### Tecnologías utilizadas
+ #### Tecnologías utilizadas en el proyecto
  <p style="display: inline-block">
      <a href="https://github.com/SergioJP1/">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="25px">
@@ -118,6 +120,20 @@ Estas son algunas de las tecnologías con las que he trabajado:
        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" height="25px">
     </a>
    </p>
+
+<hr>
+<h4><a href="https://ejerciciodadosergio.000webhostapp.com/" >Ejercicio Dado : Enlace al Juego </a></h4>
+
+ #### Tecnologías utilizadas en el proyecto
+ <p style="display: inline-block">
+     <a href="https://github.com/SergioJP1/">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" height="25px">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html" height="25px">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css" height="25px">
+    </a>
+   </p>
+<hr>
+
 
 
   <h2>Contacto</h2>
