@@ -108,9 +108,10 @@ Estas son algunas de las tecnologías con las que he trabajado:
 
 ## Proyectos/ejercicios
 
+
 <h4><a href="https://ejemplophpsergio.000webhostapp.com/" >Web LoL: Enlace al proyecto</a></h4>
 
- #### Tecnologías utilizadas en el proyecto
+
  <p style="display: inline-block">
      <a href="https://github.com/SergioJP1/">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="25px">
@@ -124,7 +125,7 @@ Estas son algunas de las tecnologías con las que he trabajado:
 <hr>
 <h4><a href="https://ejerciciodadosergio.000webhostapp.com/" >Ejercicio Dado : Enlace al Juego </a></h4>
 
- #### Tecnologías utilizadas en el proyecto
+
  <p style="display: inline-block">
      <a href="https://github.com/SergioJP1/">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" height="25px">
