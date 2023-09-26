@@ -104,7 +104,7 @@ Estas son algunas de las tecnologías con las que he trabajado:
 </span>
 
 ## Proyectos/ejercicios
-<a href="https://ejemplophpsergio.000webhostapp.com/"> <h3>Proyecto web LoL: Enlace al proyecto </a>  </h3>
+<a style="color:red;" href="https://ejemplophpsergio.000webhostapp.com/"> <h3>Proyecto web LoL: Enlace al proyecto </a>  </h3>
 
  
  #### Tecnologías utilizadas
